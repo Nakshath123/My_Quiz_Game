@@ -1,1 +1,1 @@
-# My_Quiz_Game
+# MyQuiz
